@@ -10,6 +10,6 @@ Guarda el archivo: Guarda el archivo con un nombre que termine en .py, por ejemp
 ## Paso número 4
 Abre la terminal o símbolo del sistema: En tu sistema operativo, abre la terminal (en Linux/Mac) o el Símbolo del sistema (en Windows).
 ## Paso número 5
-Ejecuta el código: Navega hasta el directorio donde guardaste el archivo (usando cd Desktop si lo guardaste en el escritorio, por ejemplo) y luego escribe python hola.py y presiona Enter. 
+Ejecuta el código: Navega hasta el directorio donde guardaste el archivo (usando cd Desktop si lo guardaste en el escritorio, por ejemplo) y luego escribe python HolaMundo.py y presiona Enter. 
 Deberías ver el mensaje "¡Hola, mundo!" impreso en tu terminal.
 
